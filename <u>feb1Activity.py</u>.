@@ -1,0 +1,18 @@
+"a variable is  is  a place that is a holding space for a vulue that does a specfic code"
+"the difffrence between a  float and a integer is a interger is just whole number while a float is number wwith decimals"
+"a  boolean is a variable that is true or false"
+*float
+
+gpa = 3.5
+print(f"your gpa is {gpa}")
+# STRING
+
+name = "jaden harris"
+
+age = 17
+
+print(age)
+
+
+"A time when technology helped me in a unexpected way was when at a concert and somone was shooting and i used my phone to get in contact with my mom"
+"I feel like if I got a peice of technology that you use on daily basis taken away from me i would be pretty helpless something that i would do in replace f the technology is go out more"
