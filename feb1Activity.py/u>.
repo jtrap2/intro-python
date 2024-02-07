@@ -7,7 +7,7 @@ gpa = 3.5
 
 print(f"your gpa is {gpa}")
 # STRING
-
+ a name is a string
 name = "jaden harris"
 
 age = 17
