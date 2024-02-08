@@ -1,0 +1,16 @@
+
+# input allways transform the dat into strings
+number_A = int(input('enter a number'))
+number_B = int(input('enter a number'))
+print
+print(number_A + number_B)
+
+ismember = true 
+goldTier= False
+silvertear= false
+bronzetier= False
+print(ismember and goldTier)
+
+fruit_A = 'apples'
+fruit_b = 'oranges'
+print(fruit_A != fruit_b)

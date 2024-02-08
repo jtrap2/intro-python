@@ -6,3 +6,14 @@
 # 6) The pthyon code i woulld use is arethmetic becuase  it  uses addition and subtraction and  ther tying to find  system where the prices of all 
  the items are added together and then deducts a 20% discount at checkout.
 3 7)The pthon operator i would  use is the comparitive one becuase  it would compare the id's
+'ARITHMETICE AND ASIGMENT - ARITHMETICE TO CACUALTE THE PRICES'
+'ASSIGMENT TO ASSIGN THE PRICE OF THE comparitive
+
+APPLE= 10.00
+SOCKS= 20.00
+BOOKS= 15.00
+
+CART= APPLR + SOCKS +BOOKS # $45
+DISCOUNTAMOUNT = CART * .2 #9
+PRIM('TOTAL OF CAR')
+PRINT(CART- DISCOUNTAMOUNT) #45 - $9 - $36
