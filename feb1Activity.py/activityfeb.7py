@@ -17,3 +17,8 @@ CART= APPLR + SOCKS +BOOKS # $45
 DISCOUNTAMOUNT = CART * .2 #9
 PRIM('TOTAL OF CAR')
 PRINT(CART- DISCOUNTAMOUNT) #45 - $9 - $36
+
+testnumber=int(40.999999999)
+print(testnumber)
+testnumber_2= float(100) 
+print(testnumber_2)

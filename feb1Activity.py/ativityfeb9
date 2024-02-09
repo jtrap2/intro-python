@@ -1,0 +1,7 @@
+usernumber1= input('enter a number')
+usernumber2= input('enter a number')
+usernumber3= input('enter a number')
+print(usernumber1 * usernumber2 * usernumber3)
+
+username= input(username)
+

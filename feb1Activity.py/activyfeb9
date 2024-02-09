@@ -1,0 +1,9 @@
+#prin()
+#nput()
+
+#int()
+#str()
+#print{}
+age =  13
+print(f"hi i am {age} years old")
+print('hi i am ' + age+'years old.')
