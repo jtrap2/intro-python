@@ -13,4 +13,4 @@ print(ismember and goldTier)
 
 fruit_A = 'apples'
 fruit_b = 'oranges'
-print(fruit_A != fruit_b)
+print(fruit_A = fruit_b)
