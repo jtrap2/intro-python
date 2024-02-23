@@ -1,0 +1,29 @@
+#function- A set of instructions tha
+#execute pne taske in a program
+#functio have 2 parts:
+# 1, function definition- the instruction on how the function for the program
+def goodafternoon():
+    print('good afternoon team!')
+# 2. functions cal- thell the program
+# to run /execute our function instruction
+goodafternoon()
+#functions parameter and arguments
+#passed into a function.
+#data type= string, floats, boleam, etc, data base
+def giftcaard_add5(user_giftcard):
+   newbalance = user_giftcard +5
+   print(f'your gift card balance is {newbalance}dollar.')
+giftcaard_add5(12)
+def giftcard_add10(usergiftcard_):
+    newbalance= user_giftcard +10
+    print('your new gift card balance is {newbalance }dollars.')
+    giftcard_add10(60)
+def salary_120k():
+def jobsearch_bysalary(desiredsalary):
+    print('show theses results  that are in this range')
+    print(f'here are jobs that pay{desiredsalary}')
+    salary_120k()
+    salary_140k()
+    salary_200k()
+
+jobsearch_bysalary(120000)
