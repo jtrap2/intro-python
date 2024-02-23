@@ -3,7 +3,7 @@
 
 
 #video 2
-is and organazitation that  makes money on collecting personal imformation
+is and organazitation that  makes money on collecting personal and general  imformation
 represent opportunities for new revenue streams.
     
 
