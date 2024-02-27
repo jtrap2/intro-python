@@ -59,3 +59,43 @@ tiertwo='silver'
 tier3='bronze'
 meertier != tierone
 membertier == tier one
+
+
+aplicationnumber = 0.001
+liversityDb_apps= 0
+print('did the person apply')
+print(aplicationnumber == univestyDb_apps)
+
+
+#provide a code scenario where you would use a logical operator in a program
+'and- both statements are true'
+'or- one of the statement are true'
+'not- flip the bolen value of the statemnt'
+
+studentID = 1929
+student_DB= [129, 1920391, 1293, 19392]
+def checkstudentID():
+    id =input('whats is your student id?')
+    id == student_db:
+    print('access granted. you may enter the school')
+    check_studentID()
+else:
+print('access denied')
+
+checkstudentID()
+
+
+
+create a block of code where you would use a comparison operato with the following DeprecationWarning
+
+currentscore= 100
+highscore=2300
+
+print(currentscore != highscore)
+
+def passwordcheck(usepassword)
+    pasword = '123'
+if userpassword == password
+print('password correct. welcom to the site ')
+else:
+print('password is incorect. please try again')
