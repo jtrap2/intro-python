@@ -1,0 +1,1 @@
+# to convert a string data type into an integer data type in python you can use the int()function
