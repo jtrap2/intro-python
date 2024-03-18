@@ -8,7 +8,7 @@ def check_vip_status(guest_name):
         return f"Sorry, {guest_name}. Please proceed to the general admission section."
     check_vip_status()
 
-
+'i wold uaw the int() function to convert a string into an integer'
 
 # key sentences that helped me figure out the code
 #The store would like your function to ask
