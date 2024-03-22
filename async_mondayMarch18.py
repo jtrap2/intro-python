@@ -1,11 +1,16 @@
-#def countLettters():
- #   userCharacters = input('Count Number Of Characters.')
-  #  characters = round(userCharacters)
-   # print(characters)
-#countLettters()
- 
+def lettercount_arg():
+    print(len())
+def lettercount_input():
+    word = input('type in a string')
+    print(len(word))
+lettercount_input()
 
-def winner(Computer_Move,Player_Move):
+
+
+
+
+
+def winner_jaden(playemove,computermove)
     if Computer_Move == Player_Move:
         print('Tie')
     elif Player_Move == 'Rock' and Computer_Move == 'paper':
